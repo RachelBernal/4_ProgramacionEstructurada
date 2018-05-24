@@ -1,3 +1,13 @@
+/*----------------------------------------------------------------------------*/
+/*Autor:Raquel Francisco Bernal                                               */
+/*E-mail:bernal-raquel@hotmail.com                                            */
+/*Fecha de creacion: 22/05/2018                                               */
+/*Fecha de modificacion: 23/04/2018                                           */
+/*Descripcion:multiplicacion de matriz               */
+/*----------------------------------------------------------------------------*/
+
+
+
 #include <stdio.h>
 #include <stdbool.h> /* Valores boleanos */
 
